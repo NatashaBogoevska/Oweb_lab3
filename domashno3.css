@@ -1,0 +1,26 @@
+fieldset {
+    width: 40px;
+    height: 40px;
+    border: solid black;
+    border-width: 3.1px;
+    float:left;
+    margin-top: 3px;
+    position:center;
+    background-color: rgb(161, 229, 161);
+    ;
+}
+img {
+    width: 40px;
+    height:40px;
+    align-self:baseline;
+    background: none;
+}
+.bezpozadina {
+    background-image: none;
+    background-color:rgb(255, 255, 255);
+}
+input[type="button"] {
+    color:black ;
+    background-color:rgb(119, 198, 119); 
+    border-color:solid rgb(69, 88, 56);
+}
